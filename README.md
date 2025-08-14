@@ -1,2 +1,2 @@
-# data_fetch_api
+# Data Fetch API using JavaScript (JS)
 Fetching users data from Users API
