@@ -17,9 +17,4 @@ A simple and elegant web app that fetches user data from a public API using vani
 
 ## 📁 Folder Structure
 
-data_fetch_api/
-├── assets/
-│   └── style.css       # Styling for the app
-├── script.js           # JavaScript logic and API calls
-├── index.html          # Main HTML file
-└── README.md           # Project documentation
+<img width="513" height="157" alt="image" src="https://github.com/user-attachments/assets/cccdebe5-5b6e-4a30-a3cf-a320bec1e32e" />
